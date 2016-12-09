@@ -1,2 +1,2 @@
 # cure
-gathering infomation
+haze detection using dark channel prior.
